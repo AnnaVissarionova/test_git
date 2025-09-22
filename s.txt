@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 text2
-=======
-text1
->>>>>>> branch4
